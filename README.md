@@ -1,6 +1,7 @@
 Modelde kullanılan veri seti : https://drive.google.com/drive/folders/1pw76tsnBNpSGwE-DCOW1JMHMR0Ej873F?usp=sharing
+
 Model sonunda "veri seti dışından yüz dosyaları okuma ve tahmin etme" kısmında kullanılan image1 ve image2 resimleri de veri seti dosyası içerisindedir.
 
-<img src="https://img.theweek.in/content/dam/week/news/2022/images/2023/2/AI-artificial-intelligence-robot-machine-learning-cyber-mind-shut.jpg" width="auto">
+<img src="https://image.cnbcfm.com/api/v1/image/106341604-1579261030301thumbnailreports_deepfakevideo_clean_03.jpg?v=1579261049" width="auto">
 
 
